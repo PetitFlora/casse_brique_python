@@ -1,0 +1,15 @@
+Breakout est un jeu vidéo classique créé par Atari en 1976. Il a été développé par Nolan Bushnell et Steve Bristow, avec l'aide de 
+Steve Wozniak, cofondateur d'Apple. Le jeu a été conçu pour exploiter les capacités graphiques des premières consoles de jeu et offrir 
+une expérience de jeu simple mais addictive.
+
+Dans Breakout, les joueurs contrôlent une raquette en bas de l'écran pour faire rebondir une balle et détruire des briques en haut de 
+l'écran. L'objectif est de débarrasser l'écran de toutes les briques en les frappant avec la balle, tout en veillant à ce que la balle 
+ne tombe pas au bas de l'écran.
+
+Le jeu a connu plusieurs évolutions et adaptations au fil des années. Des versions améliorées ont été développées avec l'ajout de bonus, 
+de niveaux plus complexes et de graphismes améliorés. Le casse brique a également été porté sur différentes plateformes, notamment sur 
+des consoles de jeu, des ordinateurs personnels, des téléphones portables et des tablettes.
+
+Depuis sa création, le concept de casse-briques est devenu un genre à part entière, de nombreux jeux reprenant le principe de base mais 
+avec des variations sur le thème et des mécaniques de jeu différentes. Malgré sa simplicité, Breakout reste un jeu populaire aujourd'hui 
+en raison de son caractère addictif et de son gameplay immédiatement accessible.
